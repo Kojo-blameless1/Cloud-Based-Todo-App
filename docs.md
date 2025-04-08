@@ -5,6 +5,8 @@
 <aside>
 A cloud-based to-do list application focusing on AWS deployment, backend development, and frontend integration
 
+Create a branch called `dev` and always push your codes there.
+
 </aside>
 
 ## Team Member
